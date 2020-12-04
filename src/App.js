@@ -44,9 +44,9 @@ function Home() {
     <div className="container">
       <div className="wrapper">
         <h5>
-          The <b>HAMBRG</b>, is a creative, engineer driven, global agency
-          working on advancing the software, advertising and design communities
-          to new heights.
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus dicta atque vel ipsa necessitatibus
+          voluptate, voluptates hic? Voluptates, delectus inventore quas eligendi illo eius esse? Cum sequi cumque
+          obcaecati aut.
         </h5>
       </div>
     </div>
